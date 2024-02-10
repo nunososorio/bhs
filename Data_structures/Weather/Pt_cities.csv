@@ -1,10 +1,10 @@
 City,City_name,Sub-region,Region,Population_2021,Area_km2,Density
-Lisbon,Lisbon,Lisbon Metropolitan Area,Lisbon Metropolitan Area,545796,100.05,5456.5
+Lisbon,Lisbon,Lisbon Met,Lisbon Met,545796,100.05,5456.5
 Porto,Porto,Porto Metropolitan Area,North,231800,41.42,5165.6
 Braga,Braga,Cávado,North,146543,61.38,2351.9
 Coimbra,Coimbra,Region of Coimbra,Center,106655,94.65,1054.3
 Funchal,Funchal,Madeira,Madeira,105590,76.15,1389.2
-Setúbal,Setubal,Lisbon Metropolitan Area,Lisbon Metropolitan Area,98470,51.49,1755.6
+Setúbal,Setubal,Lisbon Met,Lisbon Met,98470,51.49,1755.6
 Viseu,Viseu,Viseu Dão-Lafões,Center,60570,64.85,917
 Leiria,Leiria,Region of Leiria,Center,54540,108.05,633.1
 Portimão,Portimao,Algarve,Algarve,43810,75.69,650.8
