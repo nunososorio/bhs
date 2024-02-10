@@ -1,4 +1,4 @@
-City,Average precipitation mm (inches)Jan,Average precipitation mm (inches)Feb,Average precipitation mm (inches)Mar,Average precipitation mm (inches)Apr,Average precipitation mm (inches)May,Average precipitation mm (inches)Jun,Average precipitation mm (inches)Jul,Average precipitation mm (inches)Aug,Average precipitation mm (inches)Sep,Average precipitation mm (inches)Oct,Average precipitation mm (inches)Nov,Average precipitation mm (inches)Dec
+City,Average_mm_Jan,Average_mm_Feb,Average_mm_Mar,Average_mm_Apr,Average_mm_May,Average_mm_Jun,Average_mm_Jul,Average_mm_Aug,Average_mm_Sep,Average_mm_Oct,Average_mm_Nov,Average_mm_Dec
 Lisbon,99.9,84.9,53.2,68.1,53.6,15.9,4.2,6.2,32.9,100.8,127.6,126.7
 Porto,147.1,110.5,95.6,117.6,89.6,39.9,20.4,32.9,71.9,158.3,172.0,181.0
 Braga,176.4,114.8,121.6,130.8,112.9,48.6,22.0,34.0,81.7,191.7,193.9,220.2
